@@ -1,0 +1,22 @@
+{
+  "name": "worldwider-rewirte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navnitkapadia/worldwider-rewirte.git"
+  },
+  "author": "Navnit Kapadia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navnitkapadia/worldwider-rewirte/issues"
+  },
+  "homepage": "https://github.com/navnitkapadia/worldwider-rewirte#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
